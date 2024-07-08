@@ -1,0 +1,16 @@
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\Tömegközlekedés_DCXHLN.exe
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\Tömegközlekedés_DCXHLN.deps.json
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\Tömegközlekedés_DCXHLN.runtimeconfig.json
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\Tömegközlekedés_DCXHLN.runtimeconfig.dev.json
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\Tömegközlekedés_DCXHLN.dll
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\ref\Tömegközlekedés_DCXHLN.dll
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\bin\Debug\net5.0\Tömegközlekedés_DCXHLN.pdb
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.csproj.AssemblyReference.cache
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.AssemblyInfoInputs.cache
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.AssemblyInfo.cs
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.csproj.CoreCompileInputs.cache
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.dll
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\ref\Tömegközlekedés_DCXHLN.dll
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.pdb
+C:\Users\Domi\Desktop\SZTF2\féléves project\Tömegközlekedés_DCXHLN\Tömegközlekedés_DCXHLN\obj\Debug\net5.0\Tömegközlekedés_DCXHLN.genruntimeconfig.cache
